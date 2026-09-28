@@ -8,18 +8,18 @@ O projeto apresenta uma página simples de uma loja fictícia chamada **Loja do 
 
 A atividade foi desenvolvida para praticar conceitos básicos de **HTML** e **CSS**, incluindo seletores por tag, classe e ID.
 
-## 🛒 Produtos apresentados
+##  Produtos apresentados
 
 * Tênis Esportivo ADIDAS
 * Tênis Jordan NIKE
 * Tênis OLYMPIKUS
 
-## 💻 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * HTML5
 * CSS3
 
-## 🎨 Conceitos praticados
+##  Conceitos praticados
 
 Durante a atividade foram utilizados:
 
@@ -42,8 +42,8 @@ HTML-atividade/
 └── README.md
 ```
 
-## 👨‍💻 Autor
+##  Autor
 
-**Samuel**
+**SamuelCardoso**
 
 Projeto desenvolvido para fins de aprendizado em HTML e CSS.
