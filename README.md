@@ -1,60 +1,49 @@
 # HTML-atividade
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Loja do Samuel</title>
 
-  <style>
-    /* Seletor por TAG */
-    body {
-      background-color: #940D0D;
-      font-family: Arial, sans-serif;
-    }
+Este repositório contém uma atividade desenvolvida em **HTML e CSS**, com o objetivo de praticar a criação e estilização de uma página web.
 
-    h1 {
-      color: cian;
-      text-align: center;
-    }
+## 📌 Sobre o projeto
 
-    /* Seletor por CLASSE */
-    .destaque {
-      color: red;
-      font-weight: bold;
-    }
+O projeto apresenta uma página simples de uma loja fictícia chamada **Loja do Samuel**, com alguns exemplos de produtos esportivos.
 
-    /* Seletor por ID */
-    #rodape {
-      background-color: #EB3636;
-      color: cian;
-      text-align: center;
-      padding: 10px;
-      margin-top: 20px;
-    }
+A atividade foi desenvolvida para praticar conceitos básicos de **HTML** e **CSS**, incluindo seletores por tag, classe e ID.
 
-    /* Seletor por TAG */
-    h2 {
-      color: cian;
-    }
-  </style>
-</head>
-<body>
+## 🛒 Produtos apresentados
 
-  <h1>Loja do Samuel</h1>
-  <p>Confira alguns produtos:</p>
+* Tênis Esportivo ADIDAS
+* Tênis Jordan NIKE
+* Tênis OLYMPIKUS
 
-  <h2>Tênis Esportivo ADIDAS</h2>
-  <p>Tênis para academia e caminhada</p>
+## 💻 Tecnologias utilizadas
 
-  <h2 class="destaque">Tênis Jordan NIKE</h2>
-  <p>Tênis estiloso para impressionar.</p>
+* HTML5
+* CSS3
 
-  <h2>Tênis OLYMPIKUS</h2>
-  <p>Ótimo para exercícios.</p>
+## 🎨 Conceitos praticados
 
-  <div id="rodape">
-    © 2025 Loja do Samuel
-  </div>
+Durante a atividade foram utilizados:
 
-</body>
-</html>
+* Estrutura básica de um documento HTML
+* Títulos e parágrafos
+* Seletores CSS por **TAG**
+* Seletores CSS por **CLASSE**
+* Seletores CSS por **ID**
+* Alteração de cores
+* Alinhamento de textos
+* Margens e espaçamentos
+* Estilização de elementos
+
+## 📂 Estrutura do projeto
+
+```text
+HTML-atividade/
+│
+├── index.html
+└── README.md
+```
+
+## 👨‍💻 Autor
+
+**Samuel**
+
+Projeto desenvolvido para fins de aprendizado em HTML e CSS.
